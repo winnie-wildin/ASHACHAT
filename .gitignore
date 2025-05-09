@@ -1,0 +1,62 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+ashabot/
+Lib/
+Lib/site-packages/
+Scripts/
+Include/
+share/
+pyvenv.cfg
+
+# Pipenv and Poetry
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Environment variables and secrets
+.env
+.env.*
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# FAISS/vectorstore/artifacts - comment out if you want to share them
+ashabot/
+embeddings/
+event_embeddings/
+job_embeddings/
+*.faiss
+*.index
+
+# Build/egg/dist
+build/
+dist/
+*.egg-info/
+
+# VSCode and IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Test cache
+.pytest_cache/
+.cache/
+
+# Misc
+*.log
+*.out
