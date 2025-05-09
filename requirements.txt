@@ -6,4 +6,5 @@ langchain
 langchain-community
 faiss-cpu
 transformers
+sentence-transformers
 scikit-learn
