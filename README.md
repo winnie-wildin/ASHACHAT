@@ -1,7 +1,8 @@
 # Asha-bot
- is an intelligent, ethical, and memory-enhanced career assistant built with Streamlit, FAISS, HuggingFace embeddings, and Google Gemini. It goes beyond simple Q&amp;A by combining local job/event data with real-time job search from the TheirStack API — while actively guarding against gender bias to ensure an inclusive user experience.
+ is an intelligent, ethical, and memory-enhanced career assistant built with Streamlit, FAISS, HuggingFace embeddings, and Google Gemini. It goes beyond simple Q&amp;A by combining local job/event data with real-time job search from the Rapid API — while actively guarding against gender bias to ensure an inclusive user experience.
 
-✨ Features
+✨ FEATURES
+
 📚 Memory-Enhanced Chat (Summarization):
 Recaps the conversation into a smart memory after every few turns to stay focused on your evolving needs.
 
@@ -38,12 +39,12 @@ API keys, models, and settings are loaded dynamically with .env for fast setup.
 
 🛠️ How to Run (for Evaluators):
 
-1. Simply click the Live Demo link (https://winnie-wildin-ashachat-main-g5xmy6.streamlit.app/)🌐
+1. Simply click the Live Demo link (https://winnie-wildin-ashachat-main-g5xmy6.streamlit.app/)
 
-2. The app will launch in your browser—no setup needed.🧼
+2. The app will launch in your browser—no setup needed.
 
-3. Interact with the chatbot by entering a query in the text input box at the bottom and pressing Enter.💬
+3. Interact with the chatbot by entering a query in the text input box at the bottom and pressing Enter.
 
-4. You can explore multiple use cases related to career support, mentorship, and women-focused opportunities.👩‍💼✨
+4. You can explore multiple use cases related to career support, mentorship, and women-focused opportunities.
 
 
