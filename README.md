@@ -34,3 +34,16 @@ API keys, models, and settings are loaded dynamically with .env for fast setup.
 >LangChain Unstructured — Document ingestion
 
 >Python dotenv — Safe environment config management
+
+
+How to Run (for Evaluators):
+
+1. Simply click the Live Demo link (https://winnie-wildin-ashachat-main-g5xmy6.streamlit.app/)
+
+2. The app will launch in your browser—no setup needed.
+
+3. Interact with the chatbot by entering a query in the text input box at the bottom and pressing Enter.
+
+4. You can explore multiple use cases related to career support, mentorship, and women-focused opportunities.
+
+
